@@ -1,0 +1,29 @@
+id: PC0DA84C1
+initial_creation_type: input
+source_metadata:
+  title: Prajñāpāramitā Series
+  language: bo
+  description: 'The following texts are now available as part of our Prajñāpāramitā
+    (shes rab kyi pha rol tu phyin pa) and Abhisamayālaṃkāra (mngon rtogs rgyan) Series:'
+  volume:
+    f4a9e73c87374502bf545da3e594fc34:
+      title: The Heart of the Transcendent Perfection of Wisdom
+      parent: Sūtras
+    3bb0325d308242478b3d06a7be0823e4:
+      title: The Perfection of Wisdom, Mother of All Tathāgatas, ‘In One Syllable’
+      parent: Sūtras
+    4fd89b40cd1642fe8c82fce191ab8a7f:
+      title: A Preliminary to the Explanation of the Prajñāpāramitā
+      parent: Commentaries
+    b4e5864717ec4e10bf050f27a0be4af3:
+      title: 'Excellent Explanation from the Scriptural Tradition: A Brief Guide to
+        the Stages of Meditating on the General Themes of the Ornament to the Prajñāpāramitā'
+      parent: Commentaries
+    9d3f59772a99479fb357c432a183999c:
+      title: Unravelling Mantra’s Meaning in The Heart of Wisdom Sūtra
+      parent: Commentaries
+    eeb31e4cab2a4cde80f3942c7b71dbad:
+      title: Concise Explanatory Outline of the Heart of Wisdom
+      parent: Topical Outlines
+created_at: '2022-03-01T05:12:47.273573'
+last_modified_at: '2022-03-01T05:12:47.273576'
